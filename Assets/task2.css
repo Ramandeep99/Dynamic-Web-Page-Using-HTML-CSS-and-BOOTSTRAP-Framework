@@ -1,0 +1,253 @@
+
+
+
+#div1
+{
+    background-image: linear-gradient(45deg, rgba(135, 0, 0,0.10), 
+    rgba(24, 4, 4, 0.8)), url(div1bg_img.jpg);
+    min-height: 720px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.nav1{
+    padding: 10px;
+}
+
+
+#hr1
+{
+    width:6%;
+    background-color: blue;
+    margin-top: 0%;
+    height: 2px;
+
+}
+
+
+.div22
+{
+    /* border-radius: 15px; */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 10px rgba(255, 255, 255, 0.2); 
+    
+}
+
+.div22:hover
+{
+    box-shadow: 0 0 11px rgba(75, 85, 224, 0.8); 
+    
+}
+
+
+.div23
+{
+    font-size: 19px;
+    font-weight: 400;
+}
+
+
+.div31
+{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+
+
+.div3
+{
+    /* border-radius: 15px; */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 10px rgba(255, 255, 255, 0.2); 
+    
+}
+
+
+.div3:hover
+{
+    box-shadow: 0 0 11px #5252ffe0; 
+    /* font-size: 40px; */
+}
+
+.div3icon
+{
+    border: 5px solid #5252ffe0;
+    padding: 11px;
+    border-radius: 40px;
+}
+
+
+
+#div4
+{
+    /* background-image: linear-gradient(45deg, rgba(25, 0, 135, 0.30), rgba(33, 25, 107, 0.8)), url(https://images.unsplash.com/photo-1571054992190-2eaf20d15cfc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80); */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image:linear-gradient(to bottom, rgba(29, 32, 214, 0.6), rgba(107, 114, 218, 0.8)) , url(https://images.unsplash.com/photo-1522071901873-411886a10004?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80);
+    
+
+}
+
+
+
+
+
+
+
+
+.div6img
+{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:320px;
+    width: 100%;
+}
+
+
+.div66
+{
+    /* border: 2px solid blueviolet; */
+    
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 10px rgba(255, 255, 255, 0.2); 
+    padding: 0px;
+}
+
+
+.div61
+{
+    /* background-color: #bfbfbf; */
+    padding-left: 5px;
+    /* border-radius: 8px; */
+    line-height: 0.7;
+    /* padding-top: 3px; */
+    /* margin-top: 3px; */
+    /* border: 2px solid red; */
+    /* box-shadow: 0 4px 8px rgba(206, 40, 40, 0.2), 0 6px 10px rgba(255, 255, 255, 0.2);  */
+}
+
+.div61 h5
+{
+    font-size: 25px;
+}
+
+.div61 p
+{
+    font-size: 18px;
+    margin-bottom: 0.6rem;
+}
+
+
+
+
+
+
+
+
+
+.div7
+{
+    border-radius: 9px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://images.unsplash.com/photo-1513151233558-d860c5398176?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80);
+}
+
+
+
+.div71
+{
+    object-fit: cover;
+}
+
+.div72
+{
+    position: absolute;
+    /* border: 2px solid red; */
+
+}
+
+.div72 p
+{
+    font-size: 30px;
+}
+
+.div77
+{
+    color: #ffffff;
+}
+
+
+
+.div8
+{
+    position: relative;
+}
+
+.div8b
+{
+    position: absolute;
+    top: 65%;
+    right: 40%;
+}
+
+
+.div8img
+{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* height:280px;*/
+    width: 100%;
+}
+
+
+.div88
+{
+    padding: 0px;
+    /* border: 2px solid white; */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 10px rgba(255, 255, 255, 0.2); 
+}
+
+.div88 h4{
+    padding: 7px 7px 0px 7px;
+    /* border: 2px solid red; */
+    margin: 0;
+}
+
+.div88 p{
+    padding: 0px 7px 7px 7px;
+    /* border: 2px solid red; */
+    margin: 0;
+    font-size: 16px;
+
+}
+
+.div89
+{
+    /* border: 2px solid red; */
+    background-color: rgb(236, 236, 236);
+}
+
+.div89 p{
+    padding: 6px;
+}
+
+.div9
+{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image:linear-gradient(to bottom, rgb(0, 138, 230), rgba(114, 176, 204, 0.73));
+}
+
+
+/* body    
+{
+    background-color: black ;
+} */
